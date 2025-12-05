@@ -83,3 +83,6 @@ TW_EXTRA_LANGUAGES := true
 TW_SCREEN_BLANK_ON_BOOT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
+
+# Add an option in reboot menu to reboot into Download Mode. add it for Samsung devices
+TW_HAS_DOWNLOAD_MODE := true
